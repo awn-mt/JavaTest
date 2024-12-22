@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello 3");
 
         System.out.println("Hello 4 under master 2");
+
+        System.out.println("Hello 6 under master 2");
     }
 }
